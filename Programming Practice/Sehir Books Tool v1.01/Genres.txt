@@ -1,0 +1,29 @@
+name:Art,url:/genres/art
+name:Biography,url:/genres/biography
+name:Business,url:/genres/business
+name:Children's,url:/genres/children-s
+name:Christian,url:/genres/christian
+name:Classics,url:/genres/classics
+name:Comics,url:/genres/comics
+name:Cookbooks,url:/genres/cookbooks
+name:Ebooks,url:/genres/ebooks
+name:Fantasy,url:/genres/fantasy
+name:Fiction,url:/genres/fiction
+name:Graphic Novels,url:/genres/graphic-novels
+name:Historical Fiction,url:/genres/historical-fiction
+name:History,url:/genres/history
+name:Horror,url:/genres/horror
+name:Memoir,url:/genres/memoir
+name:Music,url:/genres/music
+name:Mystery,url:/genres/mystery
+name:Nonfiction,url:/genres/non-fiction
+name:Poetry,url:/genres/poetry
+name:Psychology,url:/genres/psychology
+name:Romance,url:/genres/romance
+name:Science,url:/genres/science
+name:Science Fiction,url:/genres/science-fiction
+name:Self Help,url:/genres/self-help
+name:Sports,url:/genres/sports
+name:Thriller,url:/genres/thriller
+name:Travel,url:/genres/travel
+name:Young Adult,url:/genres/young-adult
